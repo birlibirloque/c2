@@ -26,3 +26,10 @@ I prefer write an assertion before an object because:
 * Class is more complex structure than a function
 * I agree to write code in a single file in first stages
 
+
+### Branch 2
+
+Fix compilation failures but make test fail.
+
+
+

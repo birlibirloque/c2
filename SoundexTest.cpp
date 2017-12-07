@@ -1,3 +1,11 @@
+#include <string>
+
+const std::string encoded (const std::string & word) {
+
+   return("");
+};
+
+
 #include "gmock/gmock.h"    //<label id="code.include"/>
 using ::testing::Eq;
 
