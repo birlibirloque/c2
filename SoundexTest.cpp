@@ -1,6 +1,7 @@
 #include "gmock/gmock.h"    //<label id="code.include"/>
+using ::testing::Eq;
 
 TEST(SoundexEncoding, RetainsSoleLetterOfOneLetterWord) { //<label id="code.test"/>
-   Soundex soundex;   //<label id="code.construct"/>
+   ASSERT_THAT(encoded("A"), Eq("A")); //<label id="code.assert"/>
 }
 

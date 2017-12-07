@@ -1,3 +1,7 @@
+the master branch is not used on this project
+
+---
+
 Add Conan C/C++ Package Manager.
 
 Steps:
@@ -13,4 +17,12 @@ Steps:
 
 Fix the code!!
 
-the master branch is not used on this project
+### Branch 1
+
+I prefer write an assertion before an object because:
+
+* I focus in what i need to resolved, not in how i need to resolved it
+* I don't know if i will need a class
+* Class is more complex structure than a function
+* I agree to write code in a single file in first stages
+
